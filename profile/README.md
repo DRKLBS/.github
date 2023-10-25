@@ -8,4 +8,4 @@ Aktuálně máme malý tým členů, kteří dávají své vše, aby jsme zaří
 3. Tvoříme unikátní a krásné na míru dělané webové stránky a eshopy
 4. Umíme automatizovat process pro správu vašeho Discord serveru, jako je přidávání rolí hráčům či členům týmu
 
-Pro více informací se podívej na náš web [darklabs.cz](https://www.darklabs.cz).
+Pro více informací se podívej na náš web [darklabs.cz](https://darklabs.cz).
