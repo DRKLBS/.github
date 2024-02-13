@@ -1,11 +1,4 @@
 # 👩‍💻 Kdo jsme?
-Jsme agentůra, která se snaží modernizovat a vylepšit zážitky a možnosti na Minecraft CZ/SK serverech!
-Aktuálně máme malý tým členů, kteří dávají své vše, aby jsme zařídili ty nejlepší možnosti pro naše klienty a jejich hráče.
+We are a group of developers creating practical and functional Minecraft plugins on Spigot, BuildByBit or Commision. Additionally we can help you create your own plugin or you can start learning by using our own CoreAPI which makes the plugin development fairly easy and a breeze to do!
 
-# 🧙 Co děláme?
-1. Tvoříme na míru dělané pluginy
-2. Stavíme stavby dle potřeb a velikosti
-3. Tvoříme unikátní a krásné na míru dělané webové stránky a eshopy
-4. Umíme automatizovat process pro správu vašeho Discord serveru, jako je přidávání rolí hráčům či členům týmu
-
-Pro více informací se podívej na náš web [darklabs.cz](https://darklabs.cz).
+Wanna know more about us? Check out [darklabs.cz](https://darklabs.cz).
